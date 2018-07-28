@@ -1,3 +1,11 @@
+Fork notes
+==========
+
+The original Kossel Mini design expects a Planetary Gearbox NEMA 17 stepper motor to be used as the extruder motor. However, the build instructions show a standard NEMA 17 motor being used. The extruder motor holder used in those instructions and the instructions themselves have been included here.
+
+* Blomker Industries. "Kossel Mini Build Guide." https://ipfs.io/ipfs/QmbzMpR6KLP8fVQ5SWSNgapvXU61ktSz7aSKXR3DB7ADfF/Kossel_Mini_Assembly_Guide_V1_0.pdf.
+* Blomker Industries. "Kossel Mini NEMA 17 Extruder for 1.75mm Filament." https://www.thingiverse.com/thing:215010.
+
 Release status
 ==============
 
