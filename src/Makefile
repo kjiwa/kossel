@@ -1,5 +1,6 @@
 all: frame_top.stl frame_motor.stl carriage.stl endstop.stl effector.stl \
-     frame_extruder.stl m5_internal.stl hotend_fan.stl belt_clip.stl
+     frame_extruder.stl m5_internal.stl hotend_fan.stl ramps_bracket.stl \
+     belt_clip.stl
 
 .SECONDARY:
 
