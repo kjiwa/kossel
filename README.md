@@ -14,6 +14,8 @@ Build instructions written by Blomker Industries are also included in this repos
 
 * Blomker Industries. "Kossel Mini Build Guide." https://ipfs.io/ipfs/QmbzMpR6KLP8fVQ5SWSNgapvXU61ktSz7aSKXR3DB7ADfF/Kossel_Mini_Assembly_Guide_V1_0.pdf.
 
+This printer runs Marlin 1.1.9. Firmware and configuration are available in [kjiwa/Marlin](https://github.com/kjiwa/Marlin/tree/1.1.9-kjiwa-mini-kossel).
+
 Release status
 ==============
 
